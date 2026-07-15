@@ -17,6 +17,7 @@ function App() {
         </div>
         <div>
           <h1>Get started Smit Patel</h1>
+          <h1>message from branch 2</h1>
           <p>
             Edit <code>src/App.tsx</code> and save to test <code>HMR</code>
           </p>
